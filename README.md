@@ -1,6 +1,6 @@
 # Hi 👋, I'm Annanki Kruthi Choudary
 
-### A AI/ML & Backend Engineering Enthusiast
+### An AI/ML & Backend Engineering Enthusiast
 
 - 🔭 I'm currently working on **Candor, a multimodal AI engine for earnings-call analysis, vocal biomarkers, and RAG-based financial insights.**
 
